@@ -1,2 +1,2 @@
 # aggregator
-Search Aggragator (From Indeed, Github and StackExchange)
+Search Aggragator (From Indeed, GitHub and StackExchange)
